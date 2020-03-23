@@ -1,0 +1,45 @@
+﻿Id,LoggingTimeStamp,FunctArea,Oacperation,Severity,TargetResourceParkRegion,ServerTimeStamp,Component,Success,SessionId,TempAtOpearationTime,WindSpeedAtOperationTIme,EnergyProducedAtOpearationTIme
+1279057,05-05-2018 15:34,2,ItemGroup_Created,3,Europe,05-05-2018 15:34,Turbine Software,2,NULL,35,19,6
+1279058,18-04-2014 15:42,2,Profile_Updated,2,Asia,18-04-2014 15:42,Turbine Software,2,NULL,20,11,5
+1279059,05-05-2018 02:21,2,Profile_Created,2,NorthAmerica,05-05-2018 02:21,Turbine Software,2,NULL,33,15,3
+1279060,19-05-2018 15:33,2,Turbine_Updated,1,Europe,19-05-2018 15:33,Turbine Software,2,NULL,25,19,4
+1279061,16-05-2018 16:29,2,Turbine_Updated,5,Asia,16-05-2018 16:29,Turbine Software,2,NULL,26,15,8
+1279064,27-04-2018 09:39,2,Profile_PushStarted,3,NorthAmerica,27-04-2018 09:39,Turbine Software,0,NULL,24,18,2
+1279065,06-05-2018 19:03,2,Profile_PushStarted,6,Europe,06-05-2018 19:03,Turbine Software,0,NULL,33,12,6
+1279066,13-05-2018 17:10,2,Profile_Pushed Failed,1,Asia,13-05-2018 17:10,Turbine Software,3,NULL,25,18,5
+1279067,19-04-2018 13:14,2,Turbine_Updated,3,NorthAmerica,19-04-2018 13:14,Turbine Software,2,NULL,31,17,9
+1279068,08-05-2018 08:30,2,Turbine_Updated,0,Europe,08-05-2018 08:30,Turbine Software,2,NULL,28,18,8
+1279069,30-05-2018 19:44,2,Turbine_Updated,6,Asia,30-05-2018 19:44,Turbine Software,2,NULL,31,15,9
+1279070,30-04-2018 15:05,2,Turbine_Updated,5,NorthAmerica,30-04-2018 15:05,Turbine Software,2,NULL,20,10,2
+1279071,07-05-2018 08:06,2,Turbine_Updated,0,Europe,07-05-2018 08:06,Turbine Software,2,NULL,31,15,6
+1279072,22-04-2018 08:46,2,Turbine_Updated,2,Asia,22-04-2018 08:46,Turbine Software,2,NULL,27,13,1
+1279073,29-04-2018 14:30,2,Turbine_Updated,6,NorthAmerica,29-04-2018 14:30,Turbine Software,2,NULL,27,11,3
+1279074,14-04-2018 11:17,2,Turbine_Updated,2,Europe,14-04-2018 11:17,Turbine Software,2,NULL,21,20,2
+1279075,19-04-2018 05:32,2,Turbine_Updated,0,Asia,19-04-2018 05:32,Turbine Software,2,NULL,21,16,8
+1279076,02-05-2018 04:27,2,Turbine_Updated,2,NorthAmerica,02-05-2018 04:27,Turbine Software,2,NULL,30,14,7
+1279077,29-04-2018 18:21,2,Turbine_Updated,2,Europe,29-04-2018 18:21,Turbine Software,2,NULL,30,14,3
+1279078,28-05-2018 16:57,2,Turbine_Updated,6,Asia,28-05-2018 16:57,Turbine Software,2,NULL,34,19,9
+1279079,20-04-2018 22:08,2,Turbine_Updated,3,NorthAmerica,20-04-2018 22:08,Turbine Software,2,NULL,30,11,3
+1279080,16-05-2018 06:17,2,Turbine_Updated,5,Europe,16-05-2018 06:17,Turbine Software,2,NULL,31,19,3
+1279081,07-04-2018 13:39,2,Turbine_Updated,0,Asia,07-04-2018 13:39,Turbine Software,2,NULL,23,15,8
+1279082,01-05-2018 19:44,2,Turbine_Updated,3,NorthAmerica,01-05-2018 19:44,Turbine Software,2,NULL,33,13,8
+1279084,19-04-2018 16:45,2,Profile_PushStarted,1,Europe,19-04-2018 16:45,Turbine Software,0,NULL,29,12,9
+1279085,26-04-2018 03:05,2,Profile_Pushed Completed,0,Asia,26-04-2018 03:05,Turbine Software,2,NULL,23,12,6
+1279086,09-05-2018 13:54,2,Turbine_Updated,2,NorthAmerica,09-05-2018 13:54,Turbine Software,2,NULL,34,15,6
+1279087,10-05-2018 02:24,2,Turbine_Updated,1,Europe,10-05-2018 02:24,Turbine Software,2,NULL,27,18,7
+1279088,23-05-2018 01:10,2,Turbine_Updated,3,Asia,23-05-2018 01:10,Turbine Software,2,NULL,27,17,10
+1279089,29-04-2018 16:19,2,Turbine_Updated,4,NorthAmerica,29-04-2018 16:19,Turbine Software,2,NULL,34,12,7
+1279090,20-05-2018 04:26,2,Turbine_Updated,3,Europe,20-05-2018 04:26,Turbine Software,2,NULL,28,10,5
+1279091,17-04-2018 11:23,2,Turbine_Updated,6,Asia,17-04-2018 11:23,Turbine Software,2,NULL,22,19,7
+1279092,22-04-2018 12:55,2,Turbine_Updated,2,NorthAmerica,22-04-2018 12:55,Turbine Software,2,NULL,27,17,10
+1279093,05-04-2018 10:46,2,Turbine_Updated,2,Europe,05-04-2018 10:46,Turbine Software,2,NULL,29,16,2
+1279094,28-05-2018 12:51,2,Turbine_Updated,1,Asia,28-05-2018 12:51,Turbine Software,2,NULL,30,11,10
+1279095,19-04-2018 13:47,2,Turbine_Updated,2,NorthAmerica,19-04-2018 13:47,Turbine Software,2,NULL,23,13,10
+1279096,12-04-2018 17:23,2,Turbine_Updated,5,Europe,12-04-2018 17:23,Turbine Software,2,NULL,21,13,2
+1279097,28-05-2018 08:37,2,Turbine_Updated,1,Asia,28-05-2018 08:37,Turbine Software,2,NULL,30,20,10
+1279098,02-05-2018 15:07,2,Profile_Pushed Completed,1,NorthAmerica,02-05-2018 15:07,Turbine Software,2,NULL,32,16,3
+1279099,26-04-2018 02:03,2,Profile_Updated,4,Europe,26-04-2018 02:03,Turbine Software,2,NULL,25,14,6
+1279100,11-04-2018 22:36,2,Profile_Updated,3,Asia,11-04-2018 22:36,Turbine Software,2,NULL,29,18,4
+1279101,25-05-2018 19:49,2,Profile_Updated,6,NorthAmerica,25-05-2018 19:49,Turbine Software,2,NULL,28,16,1
+1279102,27-05-2018 20:24,2,Profile_Updated,4,Europe,27-05-2018 20:24,Turbine Software,2,NULL,21,13,2
+1279103,01-05-2018 15:18,2,Profile_Updated,0,Asia,01-05-2018 15:18,Turbine Software,2,NULL,33,12,1
